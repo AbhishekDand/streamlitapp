@@ -8,7 +8,7 @@ import streamlit as st
 import os
 from PIL import Image
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = 
 
 # Define Streamlit app
 def app():
